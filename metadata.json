@@ -1,0 +1,6 @@
+{
+  "name": "BizLedger",
+  "description": "Business finance tracker for recording expenses, managing budgets, tracking owner withdrawals, and managing debts & payables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
